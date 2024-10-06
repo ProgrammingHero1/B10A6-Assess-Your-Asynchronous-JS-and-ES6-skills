@@ -106,7 +106,7 @@ The following APIs are available in Peddy:
 
 - If any values from the API (e.g., pet breed, birth date) are null or undefined, display a placeholder or relevant message instead of leaving it blank.
 
-## 5. A Beautyfull README.md File
+## 5. A beautiful README.md File
 
 Ensure the final project includes a `README.md` file with the following details:
 
